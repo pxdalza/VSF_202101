@@ -39,6 +39,8 @@ namespace CRUD_PRODUCTO_ADO.BL.BC
 
         public UserBE Login(String username, String password)
         {
+            //comentario
+
             UserBE user = null;
 
             try
@@ -51,6 +53,7 @@ namespace CRUD_PRODUCTO_ADO.BL.BC
             }
 
             return user;
+
         }
     }
 }
