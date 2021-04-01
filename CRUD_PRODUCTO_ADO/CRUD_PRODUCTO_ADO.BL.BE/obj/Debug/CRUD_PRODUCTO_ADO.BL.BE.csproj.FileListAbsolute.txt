@@ -1,0 +1,6 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\bin\Debug\CRUD_PRODUCTO_ADO.BL.BE.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\bin\Debug\CRUD_PRODUCTO_ADO.BL.BE.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\obj\Debug\CRUD_PRODUCTO_ADO.BL.BE.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\obj\Debug\CRUD_PRODUCTO_ADO.BL.BE.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\obj\Debug\CRUD_PRODUCTO_ADO.BL.BE.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.BL.BE\obj\Debug\CRUD_PRODUCTO_ADO.BL.BE.pdb
