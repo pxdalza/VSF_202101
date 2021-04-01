@@ -4,3 +4,9 @@ C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD
 C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.csproj.CoreCompileInputs.cache
 C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.dll
 C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\bin\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\bin\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projectos\VSF_202101\CRUD_PRODUCTO_ADO\CRUD_PRODUCTO_ADO.FL.UTILITY\obj\Debug\CRUD_PRODUCTO_ADO.FL.UTILITY.pdb

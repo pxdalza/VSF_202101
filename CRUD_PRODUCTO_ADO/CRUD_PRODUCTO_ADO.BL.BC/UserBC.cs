@@ -45,13 +45,14 @@ namespace CRUD_PRODUCTO_ADO.BL.BC
 
             try
             {
+
                 user = userDC.Login(username, password);
             }
             catch (Exception)
             {
                 throw;
             }
-
+            //comentario2
             return user;
 
         }
